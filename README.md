@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=63C5DA&height=200&section=header&text=Be%20Ambitious();&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=63C5DA&height=200&section=header&text=Be%20Ambitious();&fontSize=90)
 
 ### 👋 Hello World!  
 Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
