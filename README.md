@@ -1,14 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### 👋 Hello World!  
 Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
 If you want to contact me, pleas leave me a message to the email below.\
 [![Gmail Badge](https://img.shields.io/badge/hwangkei0212@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwangkei0212@gmail.com)](mailto:hwangkei0212@gmail.com)
 
-## 💚 Technologies I Love  
+## Technologies I Love  
 - Machine Learning
 - Deep Learning
 - Image Processing
 
-## 💬 Programming Languages  
+## Programming Languages  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-CCCC00?style=flat-square&logo=C&logoColor=white"/></a>
 
