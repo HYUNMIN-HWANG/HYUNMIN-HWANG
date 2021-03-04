@@ -17,6 +17,10 @@ If you want to contact me, pleas leave me a message to the email below.\
 <!--
 **HYUNMIN-HWANG/HYUNMIN-HWANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNMIN-HWANG&show_icons=true&theme=radical)
+* 깃허브 프로필 꾸미기 참고 페이지 *
+https://github.com/kyechan99/capsule-render
+https://velog.io/@new_wisdom/git-%EA%B0%84%EC%A3%BD%EA%B0%84%EC%82%B4-git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/
 
 
 Here are some ideas to get you started:
