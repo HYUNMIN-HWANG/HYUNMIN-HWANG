@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FEDC56&height=200&section=header&text=capsule%20render&fontSize=90)
+
 ### 👋 Hello World!  
 Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
 If you want to contact me, pleas leave me a message to the email below.\
