@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FEDC56&height=200&section=header&text=Change%the%World&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FEDC56&height=200&section=header&text=Let's%10Change%10the%10World!&fontSize=40)
 
 ### 👋 Hello World!  
 Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
