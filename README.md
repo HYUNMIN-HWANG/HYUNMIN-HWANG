@@ -9,9 +9,10 @@ If you want to contact me, pleas leave me a message to the email below.\
 - Machine Learning
 - Deep Learning
 - Image Processing
-- Psychology and Brain Cognitive Science
+- Voice Processing
 - Medical Data Analysis
 - Healthcare
+- Psychology and Brain Cognitive Science
 
 ## Programming Languages  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
