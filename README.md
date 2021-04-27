@@ -19,6 +19,8 @@ If you want to contact me, pleas leave me a message to the email below.\
 <img src="https://img.shields.io/badge/C-CCCC00?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ruby-E0115F?style=flat-square&logo=Ruby&logoColor=white"/></a>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=xian0105)](https://solved.ac/xian0105)
+
 <!--
 **HYUNMIN-HWANG/HYUNMIN-HWANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNMIN-HWANG&show_icons=true&theme=radical)
