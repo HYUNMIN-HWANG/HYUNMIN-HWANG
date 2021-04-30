@@ -5,6 +5,9 @@ Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
 If you want to contact me, pleas leave me a message to the email below.\
 [![Gmail Badge](https://img.shields.io/badge/hwangkei0212@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwangkei0212@gmail.com)](mailto:hwangkei0212@gmail.com)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{xian0105})
+
 ## Interest 
 - Machine Learning
 - Deep Learning
