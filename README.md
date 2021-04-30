@@ -20,7 +20,7 @@ If you want to contact me, pleas leave me a message to the email below.\
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-CCCC00?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ruby-E0115F?style=flat-square&logo=Ruby&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>
 
 <!--
 **HYUNMIN-HWANG/HYUNMIN-HWANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,9 +29,7 @@ If you want to contact me, pleas leave me a message to the email below.\
 https://github.com/kyechan99/capsule-render
 https://velog.io/@new_wisdom/git-%EA%B0%84%EC%A3%BD%EA%B0%84%EC%82%B4-git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/
-
-백준
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=xian0105)](https://solved.ac/xian0105)
+https://simpleicons.org/
 
 Here are some ideas to get you started:
 
