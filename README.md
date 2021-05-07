@@ -6,7 +6,7 @@ Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
 If you want to contact me, pleas leave me a message to the email below.\
 [![Gmail Badge](https://img.shields.io/badge/hwangkei0212@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwangkei0212@gmail.com)](mailto:hwangkei0212@gmail.com)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xian0105)](https://solved.ac/xian0105)
+
 
 ## Interest 
 - Machine Learning
@@ -49,6 +49,11 @@ https://github.com/kyechan99/capsule-render
 https://velog.io/@new_wisdom/git-%EA%B0%84%EC%A3%BD%EA%B0%84%EC%82%B4-git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/
 https://simpleicons.org/
+
+
+백준
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xian0105)](https://solved.ac/xian0105)
+
 
 Here are some ideas to get you started:
 
