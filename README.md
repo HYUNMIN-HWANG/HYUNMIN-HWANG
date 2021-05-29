@@ -1,24 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=63C5DA&height=200&section=header&text=def%20Be_Ambitious():&fontSize=80&fontColor=48494B)
 
 
-### 👋 Hello World!  
+### Hello World! 👋
 Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
 If you want to contact me, please leave me a message to the email below.\
 [![Gmail Badge](https://img.shields.io/badge/hwangkei0212@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwangkei0212@gmail.com)](mailto:hwangkei0212@gmail.com)
 
 
 
-## Interest 
+## Interest 💖
 - Machine Learning
 - Deep Learning
 - Image Processing
 - Voice Processing
-- Medical Data Analysis
-- Healthcare
 - Psychology and Brain Cognitive Science
 
 
-## Github Stats  
+## Github Stats ✨ 
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=HYUNMIN-HWANG&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
@@ -26,6 +24,8 @@ If you want to contact me, please leave me a message to the email below.\
 </td></tr></table>  
 <br/>  
 
+
+## Skills 🎨
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> 
@@ -33,6 +33,7 @@ If you want to contact me, please leave me a message to the email below.\
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
