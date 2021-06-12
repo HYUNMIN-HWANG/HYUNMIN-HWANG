@@ -38,8 +38,10 @@ If you want to contact me, please leave me a message to the email below.\
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-CCCC00?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ruby-E0115F?style=flat-square&logo=Ruby&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>
+
 
 
 <!--
