@@ -13,6 +13,7 @@ If you want to contact me, please leave me a message to the email below.\
 - Deep Learning
 - Image Processing
 - Voice Processing
+- Human-Computer Interaction
 - Psychology and Brain Cognitive Science
 
 
