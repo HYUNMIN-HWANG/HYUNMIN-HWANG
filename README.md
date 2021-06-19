@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=63C5DA&height=200&section=header&text=def%20Be_Ambitious():&fontSize=80&fontColor=48494B)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYUNMIN-HWANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hello World! 👋
+
 Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
 If you want to contact me, please leave me a message to the email below.\
 [![Gmail Badge](https://img.shields.io/badge/hwangkei0212@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwangkei0212@gmail.com)](mailto:hwangkei0212@gmail.com)
