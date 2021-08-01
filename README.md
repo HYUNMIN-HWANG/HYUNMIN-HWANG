@@ -13,19 +13,10 @@ If you want to contact me, please leave me a message to the email below.\
 ## Interest 💖
 - Machine Learning
 - Deep Learning
-- Image Processing
-- Voice Processing
-- Healthcare Data
+- Computer Vision
+- Medical Data
+- Speech Recognition
 - Psychology and Brain Cognitive Science
-
-
-## Github Stats ✨ 
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=HYUNMIN-HWANG&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNMIN-HWANG&hide_border=true&langs_count=10&layout=compact&hide=jupyter%20notebook" align="left" style="width: 100%" />
-</td></tr></table>  
-<br/>  
 
 
 ## Skills 🎨
@@ -65,6 +56,13 @@ https://simpleicons.org/
 방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYUNMIN-HWANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## Github Stats ✨ 
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=HYUNMIN-HWANG&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNMIN-HWANG&hide_border=true&langs_count=10&layout=compact&hide=jupyter%20notebook" align="left" style="width: 100%" />
+</td></tr></table>  
+<br/>  
 
 Here are some ideas to get you started:
 
