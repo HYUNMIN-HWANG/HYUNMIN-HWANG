@@ -4,11 +4,8 @@
 
 ### Hello World! 👋
 
-Good day! I am Hyunmin Hwang who is interested in AI from South Korea.\
-If you want to contact me, please leave me a message to the email below.\
-[![Gmail Badge](https://img.shields.io/badge/hwangkei0212@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwangkei0212@gmail.com)](mailto:hwangkei0212@gmail.com)
-
-
+Good day!     
+I'm interested in bio-medical image data like CT, MRI, Xray, and etc. I aim to help to understand the diseases by analyzing medical images.
 
 ## Interest 💖
 - Machine Learning
