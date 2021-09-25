@@ -11,7 +11,7 @@ I'm interested in bio-medical image data like CT, MRI, Xray, and etc. I aim to h
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Medical Data
+- Medical Imaging
 - Speech Recognition
 - Psychology and Brain Cognitive Science
 
