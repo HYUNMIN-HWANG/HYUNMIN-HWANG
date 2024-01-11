@@ -1,18 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=63C5DA&height=200&section=header&text=def%20Be_Ambitious():&fontSize=80&fontColor=48494B)
-
-
 
 ### Hello World! 👋
 
 Good day!     
-I'm interested in bio-medical image data like CT, MRI, Xray, and etc. I aim to help to understand the diseases by analyzing medical images.
+I'm interested in multimodal learning and language model in medical domain.
 
 ## Interest 💖
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Medical Imaging
-- Speech Recognition
+- Large Language Model in medical domain
+- Vision-Language Model
+- Retrieval-Augmented Generation
 - Psychology and Brain Cognitive Science
 
 
@@ -25,19 +24,18 @@ I'm interested in bio-medical image data like CT, MRI, Xray, and etc. I aim to h
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-CCCC00?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ruby-E0115F?style=flat-square&logo=Ruby&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=Latex&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYUNMIN-HWANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
+[header](https://capsule-render.vercel.app/api?type=slice&color=63C5DA&height=200&section=header&text=def%20Be_Ambitious():&fontSize=80&fontColor=48494B)
 **HYUNMIN-HWANG/HYUNMIN-HWANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNMIN-HWANG&show_icons=true&theme=radical)
 * 깃허브 프로필 꾸미기 참고 페이지 *
